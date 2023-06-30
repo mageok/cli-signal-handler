@@ -1,0 +1,19 @@
+{
+    "name": "mageok/cli-signal-handler",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mageok\\CliSignalHandler\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "litemelon",
+            "email": "litemelon@163.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4"
+    }
+}
